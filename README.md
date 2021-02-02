@@ -2,13 +2,13 @@
 
 You need to set up environment variables
 
-`
-export PORT=8080
-export GITHUB_GRAPHQL_API=https://api.github.com
-export GITHUB_GRAPHQL_TOKEN=
-`
+`export PORT=8080`
 
-Please use Github docs for obtaining token 
+`export GITHUB_GRAPHQL_API=https://api.github.com`
+
+`export GITHUB_GRAPHQL_TOKEN=`
+
+Please refer to Github docs to obtain token 
 
 # Start project
 
